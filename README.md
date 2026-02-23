@@ -1,2 +1,2 @@
 # USB Security Analyzer
-A tool to detect BadUSB devices and reverse shells
+A tool to detect BadUSB devices
